@@ -18,15 +18,15 @@
 
 #### Configuration de base (Première demi-journée) :
 
-* Créez un projet Spring Boot à partir de zéro ou en utilisant Spring Initializer.
-* Configurez la base de données (par exemple, H2 pour une simplicité accrue).
-* Configurez Spring Data JPA pour la persistance des tâches.
-* Créez un modèle de données pour les tâches et les utilisateurs.
+* :white_check_mark: Créez un projet Spring Boot à partir de zéro ou en utilisant Spring Initializer.
+* :white_check_mark: Configurez la base de données (par exemple, H2 pour une simplicité accrue).
+* :white_check_mark: Configurez Spring Data JPA pour la persistance des tâches.
+* :white_check_mark: Créez un modèle de données pour les tâches et les utilisateurs.
 
 #### Fonctionnalités du service (Deuxième demi-journée) :
 
-* Implémentez des contrôleurs REST pour créer, lire, mettre à jour et supprimer des tâches.
-* Créez des services pour gérer la logique métier.
+* :hourglass: Implémentez des contrôleurs REST pour créer, lire, mettre à jour et supprimer des tâches.
+* :hourglass: Créez des services pour gérer la logique métier.
 * Assurez-vous que les utilisateurs sont authentifiés (vous pouvez utiliser Spring Security pour cela).
 * Implémentez des fonctionnalités de liste de tâches par utilisateur.
   
