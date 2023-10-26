@@ -1,0 +1,42 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+build/
+bin/
+.gradle/
+
+# IDE (e.g. IntelliJ, Eclipse)
+.idea/
+.project
+.classpath
+.settings/
+
+# Spring Boot properties
+/application.properties
+
+# Log files
+logs/
+
+# VSCode settings
+.vscode/
+
+# Ignore user-specific VSCode settings
+.vscode/settings.json
+
+# Ignore workspace-specific settings
+.vscode/settings.json
+
+# Ignore VSCode extensions folder
+.vscode/extensions/
+
+# Ignore .DS_Store files on macOS
+.DS_Store
+
+# Ignore temporary files
+*.log
+*.bak
+
+# Ignore Spring Boot generated static files
+src/main/resources/static/

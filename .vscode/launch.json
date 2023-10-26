@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpingTaskManagerApplication",
+            "request": "launch",
+            "mainClass": "com.votrepackage.SpingTaskManagerApplication",
+            "projectName": "gestion-taches"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-App<gestion-taches>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
