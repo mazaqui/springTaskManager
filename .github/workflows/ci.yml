@@ -16,7 +16,7 @@ jobs:
     - name: Setup Java
       uses: actions/setup-java@v2
       with:
-        distribution: ubuntu-20.04 
+        distribution: ubuntu-latest
         java-version: 11  # Spécifiez la version de Java appropriée
 
     - name: Build with Maven
