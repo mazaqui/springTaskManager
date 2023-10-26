@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-App<gestion-taches>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.votrepackage.App",
+            "projectName": "gestion-taches",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
